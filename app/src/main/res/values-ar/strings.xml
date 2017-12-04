@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Inventory App"</string>
+    <string name="delete_all_pets">مسح كل البيانات</string>
+    <string name="delete_item">مسح العنصر</string>
+    <string name="save">حفظ</string>
+    <string name="name">الاسم:</string>
+    <string name="price">السعر</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="minus">-</string>
+    <string name="select_image">اختار صورة</string>
+    <string name="quantity">العدد</string>
+    <string name="editor_insert_item_failed">فشل اضافة عنصر</string>
+    <string name="editor_insert_item_successful">تم بنجاح</string>
+    <string name="sale">بيع</string>
+    <string name="not_enough">لاتوجد كمية كافية</string>
+    <string name="item_sold">تم بيع العنصر</string>
+    <string name="empty_view">لاضافة عنصر جديد اضغط على علامة الزائد ادناه يرجى املاء جميع المعلومات فهي كلها مهمة</string>
+    <string name="order">الطلب</string>
+    <string name="delete_all_dialog">مسح كل البيانات  ؟</string>
+    <string name="delete_all">مسح</string>
+    <string name="keep_me">الغاء</string>
+    <string name="update_failed">فشل تحديث البيانات</string>
+    <string name="update_done">تم تحديث البيانات</string>
+    <string name="delete_item_dialog">مسح العنصر ؟</string>
+    <string name="no_picture">الرجاء ادخال صورة</string>
+    <string name="fill_all">من فضلك ملئ كل الخانات</string>
+</resources>

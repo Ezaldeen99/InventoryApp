@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">"Inventory App "</string>
+    <string name="delete_all_pets">delete all Items</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="save">Save</string>
+    <string name="name">Name:</string>
+    <string name="price">Price</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="minus">-</string>
+    <string name="select_image">select Image</string>
+    <string name="quantity">Quantity</string>
+    <string name="editor_insert_item_failed">insert Item failed</string>
+    <string name="editor_insert_item_successful">Insert Item successful</string>
+    <string name="sale">Sale</string>
+    <string name="not_enough">Not enough quantity</string>
+    <string name="item_sold">Item sold</string>
+    <string name="empty_view">you can click the plus sign below to add a new Item please make sure that all information are required (the image too)</string>
+    <string name="order">order</string>
+    <string name="delete_all_dialog">Delete All Item</string>
+    <string name="delete_all">Delete</string>
+    <string name="keep_me">Keep me here</string>
+    <string name="update_failed">update failed</string>
+    <string name="update_done">update done</string>
+    <string name="delete_item_dialog">delete item ?</string>
+    <string name="no_picture">there is no picture</string>
+    <string name="fill_all">please fill all the information</string>
+</resources>
